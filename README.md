@@ -42,11 +42,11 @@ all:
     web:
       hosts:
         server-one:
-          ansible_host: <public_ip_1>
+          ansible_host: 34.221.117.168
           ansible_user: ubuntu
           ansible_ssh_private_key_file: ~/.ssh/aws
         server-two:
-          ansible_host: <public_ip_2>
+          ansible_host: 44.243.113.168
           ansible_user: ubuntu
           ansible_ssh_private_key_file: ~/.ssh/aws
 ```
