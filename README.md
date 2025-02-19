@@ -6,7 +6,7 @@
 Below are screenshots of the rendered HTML pages from two of my servers:
 
 ![Rendered Web Page](screenshots/screenshot1.png) 
-![Rendered Web Page](screenshots/screenshot1.png) 
+![Rendered Web Page](screenshots/screenshot2.png) 
 
 ## **1. Cloning the Starter Code**
 In the first step, I cloned the starter repository to get the required files.
