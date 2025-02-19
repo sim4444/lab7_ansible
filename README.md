@@ -2,6 +2,12 @@
 
 # Lab 7: Ansible Web Server Automation
 
+## Screenshot of the Rendered Web Pages
+Below are screenshots of the rendered HTML pages from two of my servers:
+
+![Rendered Web Page](screenshots/Screenshot 2025-02-18 161719.png) 
+![Rendered Web Page](screenshots/Screenshot 2025-02-18 161758.png) 
+
 ## **1. Cloning the Starter Code**
 In the first step, I cloned the starter repository to get the required files.
 ```bash
